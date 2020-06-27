@@ -1,0 +1,30 @@
+{
+  "todos": [
+    {
+      "name": "Learn HTML",
+      "complete": false,
+      "id": 1
+    },
+    {
+      "name": "Learn CSS",
+      "complete": false,
+      "id": 2
+    },
+    {
+      "name": "Learn JS",
+      "complete": false,
+      "id": 3
+    },
+    {
+      "name": "Learn React",
+      "complete": false,
+      "id": 4
+    }
+  ],
+  "goals": [
+    {
+      "name": "Build my great project",
+      "id": 1
+    }
+  ]
+}
